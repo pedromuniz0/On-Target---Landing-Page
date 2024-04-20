@@ -118,6 +118,9 @@ li a {
     width: 100%;
     height: auto;
   }
+  .centro h1 {
+    display: none;
+  }
   .centro p {
     width: 24rem;
   }

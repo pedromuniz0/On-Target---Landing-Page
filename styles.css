@@ -119,7 +119,7 @@ li a {
     height: auto;
   }
   .centro h1 {
-    display: none;
+    visibility: hidden;
   }
   .centro p {
     width: 24rem;
